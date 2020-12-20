@@ -1,0 +1,38 @@
+/* *{
+    margin :0;
+    padding :0;
+    box-sizing: 0;
+}
+
+body{
+    background: #17181a;
+    font-family: 'Montserrat',sans-serif;
+}
+
+.text{
+    color: white;
+    font-family:'Montserrat',sans-serif ;
+}
+
+#logo{
+    color: white;
+    font-family:"Abril Fatface";
+}
+
+.nav-links{
+    min-height: 10vh;
+    /* font-size: 1rem; 
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+    width: 80%;
+    margin: auto;
+    padding: 2rem 0rem;
+}
+.footer{
+    background-color:rgb(0, 103, 162);
+    text-align:justify;
+    font-family:"Abril Fatface" ;
+
+} */
